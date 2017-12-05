@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nasa / Cooper Hewitt</title>
+  </head>
+  <body>
+    <center>
+      Micah: {{micah}}
+      <br>
+      Stat: {{stat}}
+      <h1>{{title}}</h1>
+      <br>
+      <img src="{{image}}">
+      <br>
+      <p>{{explanation}}</p>
+    </center>
+  </body>
+</html>
